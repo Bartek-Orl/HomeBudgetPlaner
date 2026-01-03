@@ -15,6 +15,8 @@ namespace HomeBudgetProject.Enums
         Odziez,
         Dom,
         PodatkiIOplaty,
-        Inne
+        Inne,
+        Przychody
     }
 }
+
